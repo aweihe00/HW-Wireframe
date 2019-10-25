@@ -1,2 +1,2 @@
 # HW-Wireframe
-first hw assignment
+Easier Assingment - Building a Wireframe
