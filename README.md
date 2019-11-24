@@ -35,30 +35,6 @@ Article (With a Heading) contained within the Section
 Headers contained within the Article
 Paragraph contained within the Article
 
-
-Your CSS should have styles for each of the following elements:
-
-Body:
-font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-color: '#777'
-background: '#777'
-width: '960px'
-font-size: '18px'
-
-Header, Nav, Section, Aside, and Footer:
-background: '#ebebeb'
-
-Article:
-color: '#ebebeb',
-background: '#777'
-
-h1 and p:
-color: '#777',
-background: '#ebebeb'
-
-The width of the section should be:
-section: 495px
-
 Student Notes
 
 This exercise will challenge most students unfamiliar with HTML/CSS. If you see this task as too simple or if you finish it within three hours, attempt the second homework assignment.
@@ -80,4 +56,4 @@ When writing a commit message, avoid vague messages like "fixed." Be descriptive
 
 We would like you to have well over 200 commits by graduation, so commit early and often!
 
-![capture](https://user-images.githubusercontent.com/56567819/69487136-84e8a880-0e1a-11ea-991e-ab57f049fe3b.png)
+![capture](https://user-images.githubusercontent.com/56567819/69487234-b9109900-0e1b-11ea-83f3-00ec5baedb65.png)
