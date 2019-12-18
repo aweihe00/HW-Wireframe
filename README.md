@@ -1,6 +1,8 @@
 # HW-Wireframe
 Easier Assingment - Building a Wireframe
 
+Link to deployed site https://aweihe00.github.io/HW-Wireframe/
+
 Instructions
 
 Create a new repository in GitHub called HW-Wireframe.
