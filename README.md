@@ -1,13 +1,13 @@
 # HW-Wireframe
 Easier Assingment - Building a Wireframe
 
-Instructions:
+## Instructions:
 
 Create a new repository in GitHub called HW-Wireframe.
 Clone this repository to your computer by following the process we went over in class.
 Navigate to the HW-Wireframe folder you just cloned onto your machine. Then create two files inside this folder: index.html and style.css
 
-Additional Specifications
+## Additional Specifications
 
 Your HTML should have each of the following sections:
 1. Header
